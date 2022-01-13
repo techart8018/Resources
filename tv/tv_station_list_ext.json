@@ -70,30 +70,6 @@
             ]
         },
         {
-            "name": "NBC Pittsburgh",
-            "logo": "wpxi.png",
-            "url": [
-                "http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8"
-            ]
-        },
-        {
-            "name": "NBC 6 Miami",
-            "logo": "nbc_6.png",
-            "url": [
-                "http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8",
-                "http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8"
-            ]
-        },
-        {
-            "name": "NBC Bay Area",
-            "logo": "nbc_bay_area.png",
-            "url": [
-                "http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8",
-                "https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8",
-                "https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8"
-            ]
-        },
-        {
             "name": "NASA TV",
             "logo": "nasa_tv.png",
             "url": [
