@@ -1003,72 +1003,10 @@
             ]
         },
         {
-            "id": "20",
-            "name": "CGTN",
-            "logo": "cgtn.png",
+            "name": "七彩戏剧",
+            "logo": "no.png",
             "url": [
-                "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
-                "http://live.cgtn.com/1000/prog_index.m3u8",
-                "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-                "http://live.cgtn.com/500/prog_index.m3u8",
-                "http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8",
-                "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
-                "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
-            ]
-        },
-        {
-            "name": "CBS News",
-            "logo": "cbsn.png",
-            "url": [
-                "http://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8",
-                "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-                "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
-                "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8",
-                "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
-            ]
-        },
-        {
-            "name": "NBC News",
-            "logo": "nbc.png",
-            "url": [
-                "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8",
-                "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
-                "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8",
-                "https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8",
-                "https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8",
-                "https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8"
-            ]
-        },
-        {
-            "name": "MSNBC",
-            "logo": "msnbc.png",
-            "url": [
-                "http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8",
-                "http://stream.tvtap.live:8081/live/us-msnbc.stream/playlist.m3u8"
-            ]
-        },
-        {
-            "name": "Fox News",
-            "logo": "fox_news.png",
-            "url": [
-                "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
-                "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-                "https://lnc-fox-news-now.tubi.video/index.m3u8",
-                "https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8"
-            ]
-        },
-        {
-            "name": "CNN",
-            "logo": "cnn.png",
-            "url": [
-                "http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8",
-                "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-                "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
-                "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
-                "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
-                "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
-                "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
-                "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+                "http://112.25.48.68/live/program/live/qcxj/1300000/mnf.m3u8"
             ]
         }
     ]
